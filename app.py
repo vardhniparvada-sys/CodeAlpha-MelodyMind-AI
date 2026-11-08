@@ -309,7 +309,7 @@ note sequences from the MAESTRO MIDI dataset.
 It generates new musical note sequences.
         </div>
         <span class="status">MODEL FILE AVAILABLE</span>
-        <span class="status">TRAINING STATUS UNVERIFIED</span>
+        <span class="status">LSTM MODEL TRAINED-3 EPOCHS</span>
     </div>
     """, unsafe_allow_html=True)
 else:
